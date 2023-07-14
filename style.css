@@ -11,7 +11,7 @@ p,h2{
 }
 #card-container{
   height:650px;
-  width:1220px;
+  width:1440px;
   border:1px solid white;
   background-color:#f2ebe3;
 }
@@ -21,7 +21,7 @@ p,h2{
   width:500px;
   height:350px;
   margin-top:150px;
-  margin-left:360px;
+  margin-left:470px;
   box-shadow:2px 3px 7px 0px rgba(0,0,0,0.35);
   overflow:hidden;
   
